@@ -90,9 +90,8 @@ h5 {
     text-align: justify;
 }
 
-#message {
-    width: 960px;
-    height: 200px;
+textarea {
+    overflow-y: scroll;
 }
 
 button {
@@ -125,6 +124,11 @@ button:hover {
     width: 200px;
     position: absolute;
     bottom: 0px;
+}
+
+.porfolio img:hover {
+    box-shadow: 0 5px 10px 0 rgba(0, 0, 0, 1.2), 0 8px 25px 0 rgba(0, 0, 0, 0.19);
+    cursor: pointer;
 }
 
 .clear {
