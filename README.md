@@ -8,5 +8,5 @@ Create a web page to practice HTML, CSS.
 **HTML** is used as backbone of the content.  
 **CSS** is used to modify the layout.
 
-## How to use
+## How to Use
 Click about, profolio, contact to see different pages.
