@@ -4,7 +4,7 @@ Create my first html file with my profolio
 ## Motivation
 Create a web page to practice HTML, CSS.
 
-## Technologies used and why
+## Technologies Used and Why
 **HTML** is used as backbone of the content.  
 **CSS** is used to modify the layout.
 
